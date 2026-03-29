@@ -1,2 +1,2 @@
-# count_fingers
+# count-fingers
 Python script to count the number of fingers shown in the camera.
